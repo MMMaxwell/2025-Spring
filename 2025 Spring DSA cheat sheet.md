@@ -1,7 +1,6 @@
+本人应试整理的应急cheatsheet，内容有些杂乱，但是都放的是个人认为比较经典的题目或者算法模版。具体题目请参考https://github.com/GMyhf/2025spring-cs201/tree/main/homework and https://github.com/GMyhf/2025spring-cs201/blob/main/problem_list_2025spring.md。
+
 ### 并查集模板
-
-*本人应试整理的应急cheatsheet，内容有些杂乱，但是都放的是个人认为比较经典的题目。具体题目请参考https://github.com/GMyhf/2025spring-cs201/tree/main/homework and https://github.com/GMyhf/2025spring-cs201/blob/main/problem_list_2025spring.md。
-
 字典式
 ```python
 class DisjointSet:
